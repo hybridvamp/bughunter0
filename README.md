@@ -158,3 +158,9 @@ Life's too short to debug—just comment it out and call it a **feature!** 😜�
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nuhmanpk)](https://medium.com/@nuhmanpk)
 [![GitHub Sponsor](https://img.shields.io/badge/Github%20Sponsor-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nuhmanpk)
 [![Google Dev](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/nuhmanpk)
+
+-------------
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=See%20you%20in%20the%20Code%20%20✌️&fontAlign=50&fontAlignY=25&animation=fadeIn&desc=github.com/nuhmanpk&descAlignY=47&section=header&fontColor=ffffff" />
+</p>
